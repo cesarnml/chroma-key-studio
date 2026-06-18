@@ -1,0 +1,6 @@
+{
+  "name": "Chroma Key Studio",
+  "description": "An interactive chroma key and green screen removal tool that keys out backgrounds, refines edges, and exports transparent graphics or sprite sheets in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
